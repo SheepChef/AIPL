@@ -11,7 +11,7 @@
 
 ---
 
-详细条款见 [#LICENSE.md](LICENSE)
+详细条款见 [LICENSE](LICENSE.md)
 
 
 
